@@ -13,7 +13,6 @@ Passionate about backend systems, AI-powered solutions, and continuous learning.
 - 🎓 Computer Engineering Graduate
 - 💻 Full Stack Developer specializing in **Java, Spring Boot, React & PostgreSQL**
 - 🤖 Interested in **Artificial Intelligence, Machine Learning & Cybersecurity**
-- 🌱 Currently learning **System Design, Docker, Kubernetes & Cloud**
 - 🚀 Building projects that solve real-world problems
 - 🎯 Goal: Become a Software Engineer developing scalable and impactful products
 
