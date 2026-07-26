@@ -58,6 +58,13 @@ AI-powered financial risk assessment platform built with Spring Boot, React, Fas
 **Tech:** Java • Spring Boot • React • PostgreSQL • FastAPI • Scikit-learn
 
 ---
+### 🔹 Self-Healing Microservices
+Intelligent microservices platform capable of detecting failures, performing AI-driven anomaly detection, triggering automated recovery workflows, and sending real-time email alerts for improved system reliability.
+
+**Tech:** Spring Boot • Docker • Microservices • Python • AI/ML • Prometheus • Grafana
+
+---
+
 
 ### 🔹 SpendAura
 Personal finance management application with expense tracking and insightful analytics.
