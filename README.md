@@ -87,7 +87,7 @@ Deep Learning model using CNN to classify dog breeds with high accuracy.
 <p align="left">
 <a href="https://github.com/SnehalJadhav180"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://www.linkedin.com/in/snehal-j-0909a925a"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="mailto:snehaljadhav18012005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
