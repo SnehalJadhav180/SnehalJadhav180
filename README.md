@@ -92,10 +92,9 @@ Deep Learning model using CNN to classify dog breeds with high accuracy.
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:snehaljadhav18012005@gmail.com">
-    📧 Email
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48"/>
   </a>
 </p>
-
 ---
 
 ⭐ Thanks for visiting my profile!
